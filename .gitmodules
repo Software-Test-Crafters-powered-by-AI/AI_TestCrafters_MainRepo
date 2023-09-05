@@ -1,0 +1,6 @@
+[submodule "AutoTest_UIComponentDetection"]
+	path = AutoTest_UIComponentDetection
+	url = https://github.com/Software-Test-Crafters-powered-by-AI/AutoTest_UIComponentDetection
+[submodule "rasp_vusb"]
+	path = rasp_vusb
+	url = https://github.com/Software-Test-Crafters-powered-by-AI/rasp_vusb
