@@ -4,3 +4,6 @@
 [submodule "rasp_vusb"]
 	path = rasp_vusb
 	url = https://github.com/Software-Test-Crafters-powered-by-AI/rasp_vusb
+[submodule "PythonUtilityFunctions"]
+	path = PythonUtilityFunctions
+	url = https://github.com/Software-Test-Crafters-powered-by-AI/PythonUtilityFunctions
